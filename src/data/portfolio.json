@@ -1,0 +1,70 @@
+{
+    "portfolio": {
+        "sectionTitle": "Project",
+        "sectionTitleWaterText": "Latest Work",
+        "portfolioGallery": [
+            {
+                "image": "/img/portfolio/portfolio-1.jpg",
+                "title": "Recycling Web App",
+                "link": "/project-details",
+                "desc": "Convolutional Neural Network that classifies waste as either Recycling (Paper, Glass, Cardboard, Metal, Plastic), E-Waste, or Trash."
+            },
+            {
+                "image": "/img/portfolio/portfolio-2.jpg",
+                "title": "Netflix Movie Recommender",
+                "link": "/project-details",
+                "desc": "Interactive Netflix movie and tv-show recommender"
+            },
+            {
+                "image": "/img/portfolio/portfolio-3.jpg",
+                "title": "Predicting House Listings",
+                "link": "/project-details",
+                "desc": "Using multiple linear regression to analyze and predict the sale price of houses."
+            }
+        ]
+    },
+    "projectDetails": {
+        "projectDetailsTitle": "Recycling Web App",
+        "projectDetailsDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem veritatis quo et ullam, ducimus itaque earum dolorem? Consectetur, et, aut. A, corporis officia eius dicta explicabo saepe nesciunt, mollitia minima, atque maiores optio cum. Atque amet unde impedit voluptate cumque distinctio minima, aspernatur nemo! Expedita in, numquam blanditiis ullam rem! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi cum fugit officia dolores eligendi, rem. Quibusdam quasi impedit perspiciatis iure maiores, eaque numquam doloremque, quo nam soluta itaque obcaecati tempore!.</br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore ex, nam adipisci dolores laborum earum. Unde cum, ut nostrum nihil alias, laudantium molestiae, vitae quidem dolorem officiis ipsum. Aliquid nemo consequuntur cupiditate delectus sapiente doloribus dolorem, at suscipit, non laudantium mollitia magnam repellat atque quia! Aut, veniam, nam. Ex porro optio facilis nostrum, qui ipsa?",
+        "images": [
+            {
+                "image": "/img/screenshot/screenshot-1.jpg"
+            },
+            {
+                "image": "/img/screenshot/screenshot-2.jpg"
+            },
+            {
+                "image": "/img/screenshot/screenshot-3.jpg"
+            }
+        ]
+    },
+    "projectDetailsInfo": {
+        "title": "Project Information",
+        "lists": [
+            {
+                "label": "Client",
+                "desc": "Dominic Due"
+            },
+            {
+                "label": "Location",
+                "desc": "Barlin, Jarmany"
+            },
+            {
+                "label": "Sector",
+                "desc": "South"
+            },
+            {
+                "label": "Year",
+                "desc": "2020"
+            },
+            {
+                "label": "Budget",
+                "desc": "$5000"
+            },
+            {
+                "label": "Website",
+                "desc": "www.example.com"
+            }
+        ]
+    }
+}

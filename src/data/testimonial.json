@@ -1,0 +1,16 @@
+{
+    "bgImage": "/img/bg/testimonial.png",
+    "testimonials": [
+        {
+            "desc": "Worked with Nicolas on various projects at Google's Applied Machine Learning Intensive. I was impressed with his positive outlook /can-do attitude towards problems encountered while working on projects. He is a great person to work with and brings amazing energy to a team.",
+            "author": "Marc Mascarenhas",
+            "designation": "Google Extern"
+        },
+        {
+            "desc": "Driven is the phrase that comes to mind when I think about Nicolas. I've had the pleasure of knowing Nicolas for 3 months, during which we studied and worked together on various coding projects. Above all, I was impressed with Nicolas's understanding of Statistics and strong coding skills in Python. Nicolas would be a true asset for any positions requiring Python and Data Analysis and comes with my heartfelt recommendation.",
+            "author": "Michael LeJeune Hu",
+            "designation": "Google Extern"
+        }
+    ]
+}
+

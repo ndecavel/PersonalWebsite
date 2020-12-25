@@ -1,0 +1,39 @@
+{
+    "sectionTitle": "My Resume",
+    "sectionTitleWaterText": "My Resume",
+    "education": {
+        "heading": "Education",
+        "resumes": [
+            {
+                "insName": "University of San Francisco",
+                "position": "<span>2021</span> | MS in Data Science",
+                "desc": ""
+            },
+            {
+                "insName": "Pitzer College",
+                "position": "<span>2019</span> | BA in Mathematical Economics",
+                "desc": ""
+            }
+        ]
+    },
+    "professional": {
+        "heading": "Professional",
+        "resumes": [
+            {
+                "insName": "Canal AI",
+                "position": "<span>2021-Present</span> | Data Science Intern",
+                "desc": "Worked within a startup to help with their data extraction through the implementation of NLP best practices."
+            },
+            {
+                "insName": "Google",
+                "position": "<span>2019</span> | Applied Machine Learning Extern",
+                "desc": "One of 2% of applicants selected for 10-week, 450-hour ML bootcamp. Created a Render web app that allowed users to classify waste via a pre-trained PyTorch CNN. In addition, integrated a feedback mechanism with Google Cloud Storage in order to mitigate future sampling bias by populating the training data with new images from the feedback given."
+            },
+            {
+                "insName": "Middle Tree",
+                "position": "<span>2018-2019</span> | Technical Program Manager",
+                "desc": "Established a software development internship program where I communicated between management and three interns. Collaborated on an application allowing students to sign in and out while maintaining data for our marketing team. "
+            }
+        ]
+    }
+}

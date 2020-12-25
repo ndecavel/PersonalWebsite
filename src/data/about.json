@@ -1,0 +1,63 @@
+{
+    "about": {
+        "sectionTitle": "About Me",
+        "sectionTitleWaterText": "About Me",
+        "aboutMe": "Hi, I'm Nicolas Decavel-Bueff. I'm an analytically-driven scientist with 5 years of experience working with research teams and 1.5 years experience of financial modeling. Utilizing the technical framework that I’ve obtained through my education in physics, mathematics and computer programming, I apply machine learning, data analytics and mathematical modeling to find intelligent solutions to real world problems. My experience as an educator has allowed me to develop my communication and management skills while interacting with an assortment of people from varying background and technical ability. My goal is to utilize emerging technologies to create products that have a meaningful, positive impact upon society."
+    },
+    "socials": [
+        {
+            "icon": "fa fa-facebook",
+            "link": "https://www.facebook.com/nicolas.decavelbueff/"
+        },
+        {
+            "icon": "fa fa-twitter",
+            "link": "https://www.twitter.com/"
+        },
+        {
+            "icon": "fa fa-linkedin",
+            "link": "https://www.linkedin.com/in/nicolas-decavel-bueff/"
+        },
+        {
+            "icon": "fa fa-instagram",
+            "link": "https://www.instagram.com/"
+        }
+    ],
+    "aboutDetails": {
+        "image": "/img/about/about.jpg",
+        "heading": "I'm Nicolas Decavel-Bueff, <br>I’m a Data Scientist based in San Francisco who is passionate about science and technology. ",
+        "infoList": [
+            {
+                "label": "Name",
+                "info": "Nicolas Decavel-Bueff"
+            },
+            {
+                "label": "Email",
+                "info": "nicolasdecavel@gmail.com"
+            },
+            {
+                "label": "Skype",
+                "info": "abcxyz"
+            },
+            {
+                "label": "Website",
+                "info": "nicolasdecavelbueff.com"
+            },
+            {
+                "label": "Job",
+                "info": "Data Scientist"
+            },
+            {
+                "label": "Phone",
+                "info": "(916)717-6555"
+            },
+            {
+                "label": "Address",
+                "info": "88 Howard St., San Francisco "
+            },
+            {
+                "label": "Nationality",
+                "info": "American/French"
+            }
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "hero": {
+        "subTitle": "Hi, I'm <span>Nicolas Decavel-Bueff</span>",
+        "title": "Data Scientist",
+        "bgImg": "/img/hero/world.png",
+        "image": "/img/hero/my_img_2.png"
+    }
+}
